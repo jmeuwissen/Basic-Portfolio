@@ -1,0 +1,28 @@
+*{
+    
+    
+}
+body{
+    margin:auto;
+    width: 960px;
+}
+
+nav{
+    background: pink;
+    position: fixed;
+    width: 960px;
+    
+}
+
+.navName{
+    
+}
+
+.navLink{
+
+    background: orange;
+    list-style-type: none;
+    display: inline;
+ 
+    position: relative;
+}
